@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Josh Walters",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "molly@hawaii.edu",
@@ -9,44 +9,44 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96706",
+      "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "joshnwalters",
+        "url": "http://github.com/joshnwalters"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Josh Walters",
+        "url": "https://linkedin.com/in/joshua-walters-033a18ba/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Embedded Systems",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "C/C++",
+        "Assembly"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Science",
       "keywords": [
       ]
     },
@@ -64,72 +64,86 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Linux",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2019-01-07",
+      "endDate": "2020-12-15",
+      "gpa": "TBD",
       "courses": [
+        "Analysis of Algorithms",
+        "Software Engineering in Javascript",
+        "Linear Algebra/Differential Equations",
+        "Mandarin"
       ]
     }
+          "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science-Computer Science focus (Fall 2018)",
+      "studyType": "A.S.",
+      "startDate": "2017-01-07",
+      "endDate": "2018-12-15",
+      "gpa": "3.92",
+      "courses": [
+         "Multivariable Calculus",
+         "Programming in Java",
+         "Programming in C/C++",
+         "General Chemistry"
+         "Introductory Physics",
+         "Discrete Mathematics"
+
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Native Hawaiian Veterans, LLC",
+      "position": "Fiber Optic Cable Installer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-03",
+      "endDate": "2018-11",
+      "summary": "Install and troubleshoot VTC equipment",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Install and configure Cisco, Cinemassive, and Think Logical proprietary equipment"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "United States Navy",
+      "position": "Electronics Technician, Second Class",
+      "website": "",
+      "startDate": "2011-12-05",
+      "endDate": "2016-12-05",
+      "summary": "Radio Operator",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot computer, electronic, hydraulic, and optical systems in support of complex missions.",
+        "Processed over 10,000 incoming and over 1000 outgoing messages in support of missions vital to national security."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
@@ -148,16 +162,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Navy and Marine Corps Achievement Medal(Two Awards",
+      "date": "2015-04, 2016-08",
+      "awarder": "Commander, Submarine Squadron One",
+      "summary": "Operating and maintaining communications equipment in support of a predeployment work-up, and subsequent deployment, allowing the ship to complete all tasking."
     },
     {
-      "title": "First place",
+      "title": "Bowditch Award",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Bremerton-Olympic Penninsula League",
+      "summary": "Awarded to the crew member who best exemplefies Navigation/Operations Department excellence."
     }
   ],
   "references": [
