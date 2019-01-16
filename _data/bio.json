@@ -80,7 +80,7 @@
   ],
   "education": [
     {
-      "institution 2": "University of Hawaii, Honolulu, HI",
+      "institution ": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2019-01-07",
@@ -103,7 +103,7 @@
          "Multivariable Calculus",
          "Programming in Java",
          "Programming in C/C++",
-         "General Chemistry"
+         "General Chemistry",
          "Introductory Physics",
          "Discrete Mathematics"
 
