@@ -3,9 +3,9 @@
     "name": "Josh Walters",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "jnw6@hawaii.edu",
+    "phone": "620-805-1566",
+    "website": "https://joshnwalters.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -113,8 +113,8 @@
       "company": "Native Hawaiian Veterans, LLC",
       "position": "Fiber Optic Cable Installer",
       "website": "",
-      "startDate": "2017-03",
-      "endDate": "2018-11",
+      "startDate": "2017-03-01",
+      "endDate": "2018-11-05",
       "summary": "Install and troubleshoot VTC equipment",
       "highlights": [
         "Install and configure Cisco, Cinemassive, and Think Logical proprietary equipment"
@@ -163,13 +163,13 @@
   "awards": [
     {
       "title": "Navy and Marine Corps Achievement Medal(Two Awards",
-      "date": "2015-04, 2016-08",
+      "date": "2015-04-05, 2016-08-05",
       "awarder": "Commander, Submarine Squadron One",
       "summary": "Operating and maintaining communications equipment in support of a predeployment work-up, and subsequent deployment, allowing the ship to complete all tasking."
     },
     {
       "title": "Bowditch Award",
-      "date": "2015",
+      "date": "2015-08-02",
       "awarder": "Bremerton-Olympic Penninsula League",
       "summary": "Awarded to the crew member who best exemplefies Navigation/Operations Department excellence."
     }
