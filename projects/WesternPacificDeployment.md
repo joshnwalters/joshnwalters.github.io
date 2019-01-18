@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/billyBadfish.jpg
+image: images/ss1.jpg
 title: Western Pacific Deployment
 permalink: projects/WestPac
 # All dates must be YYYY-MM-DD format!
@@ -23,6 +23,10 @@ I was a crew member on the USS Bremerton (SSN 698), which at the time was the ol
 </div>
 
 Upon steaming to area, I was instrumental in the reception and transmittal of 10,000 and 1,000 messages respectively, which supported the completion of two missions of national tasking, and two joint exercises. This experience presented dynamic challenges that required teamwork and perserverance to overcome.
+
+<div class="ui small rounded images">
+<img class="ui image" src="../images/billyBadfish.jpg">
+</div>
 
 
 
