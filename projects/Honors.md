@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: iimages/graduation.jpg
+image: images/graduation.jpg
 title: Honors
 permalink: projects/Honors
 # All dates must be YYYY-MM-DD format!
