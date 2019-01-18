@@ -10,7 +10,7 @@ labels:
   - Perserverance
   - Dedication
   - Resiliance
-summary: Graduating with an Associates of Science with Honors
+summary: Earning an Associates of Science with Honors
 ---
 
 <img class="ui image" src="../images/mountain.jpg">
