@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/VTC.jpg
 title: VTC Upgrades
 permalink: projects/VTCUpgrade
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Surveyed and upgraded Video Teleconferencing (VTC) rooms.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/cisco.jpg">
 
 During the summer of 2017, I had the privelege of working for Native Hawaiian Veterans, LLC under Col. Stephen Wren (ret.) and Mr. John Barnette. In my position, I acted as a fiber optic cable installer, so my focus was on installing hardware and basic network troubleshooting.
 
@@ -21,4 +21,4 @@ The project invovled the upgrade of five VTC rooms in Top Secret/Sensitive Compa
 
 This project extended some of the basic network troubleshooting experience that I had gained through my position as a radio operator in the United States Navy. I also became familiar with proprietary equipment from Cisco, Cinemassive, Crestron, and ThinkLogical.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<img class="ui medium right floated rounded image" src="../images/thinklogical.png">
