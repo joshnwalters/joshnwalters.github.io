@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/USS_BEMERTON3.jpg
+image: images/billyBadfish.jpg
 title: Western Pacific Deployment
 permalink: projects/WestPac
 # All dates must be YYYY-MM-DD format!
