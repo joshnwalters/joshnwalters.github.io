@@ -13,7 +13,7 @@ labels:
 summary: Graduating with an Associates of Science with Honors
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/">
+<img class="ui image" src="../images/mountain.jpg">
 
 Many people might not find an A.S. that great of an accomplishment. I feel very differently.
 
