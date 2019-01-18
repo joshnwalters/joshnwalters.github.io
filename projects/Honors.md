@@ -25,5 +25,5 @@ Upon completion of my five-year contract, I knew that this time would be differe
 
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
 
