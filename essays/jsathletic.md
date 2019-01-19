@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Javascript and Athletic Software Engineering: An Introduction
+title: A Beginner's Review of Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
   - Javascript
-  -Athletic Software Engineering
+  - Athletic Software Engineering
 ---
 
 
