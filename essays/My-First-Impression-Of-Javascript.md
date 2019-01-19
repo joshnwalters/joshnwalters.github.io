@@ -62,5 +62,9 @@ labels:
    
    "JSON," the only words I understood out of the whole sentence. "Who is JSON!?" I sharply recited, interrupting Javascript. "I said, I need to tell you about JSON." My heart began to race, who is this JSON character? Javascript's ex? My mind began wander to the worst cases. "JSON is Javascript Object Notation. It's a lightweight data-interchange format. It can store integers, floats, strings, booleans, a NULL value, or even objects. Look, I know you're going to struggle to get to know JSON, but I really think it would be best for our relationship if you two could be friends." I sank back in my chair. I couldn't tell whether Javascript was a gift from above, or a wild-child that would ruin my trust in programming languages all together.
    
+   <div class="ui small rounded images align:center">
+<img class="ui image" src="../images/crisis.jpg">
+</div>
+   
    More information on JSON can be found at https://www.w3schools.com/js/js_json.asp
    
