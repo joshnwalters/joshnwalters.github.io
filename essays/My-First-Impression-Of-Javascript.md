@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: /images/javascript.png
 title: My First Impression of Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
@@ -10,7 +11,7 @@ labels:
 
 
 <div class="ui small rounded images align:center">
-<img class="ui image" src="../images/javascript.png">
+<img class="ui image" src="../images/javascript2.jpg">
 </div>
 
 
