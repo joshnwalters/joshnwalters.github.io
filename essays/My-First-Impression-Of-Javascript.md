@@ -8,6 +8,10 @@ labels:
   - Javascript
 ---
 
+
+<div class="ui small rounded images">
+<img class="ui image" src="../images/manhuggingcomputer.jpg">
+</div>
  My relationship with Javascript started out much like any other relationship. At first, communication was painful. I was speaking to Javascript a lot like I had spoken to my previous programming languages. Luckily, Javascript didn't seem to let it become a bother. In the beginning, I was too hung up on my previous relationships (Java, C++). I said "Look, my previous relationship got kind of messy, Java was really controlling. Java was always trying to force me to return just one data-type in my functions." I was relieved when Javascript replied, "Look, you're your own person. While we're together, I'll let you return whatever you want: Booleans, integers, strings, it's totally up to you."
  
  
