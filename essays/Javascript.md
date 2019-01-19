@@ -2,9 +2,9 @@
 layout: essay
 type: essay
 image: /images/javascript.png
-title: My First Impression of Javascript
+title: Javascript and Athletic Software Engineering, an Intoduction
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2019-01-18
 labels:
   - Javascript
 ---
@@ -80,6 +80,10 @@ In contrast with the simplicity of how Javascript implements arrays, JSON (Javas
    More information on JSON can be found at https://www.w3schools.com/js/js_json.asp
    
   The last concept I was introduced to in this section was the concept of the Ahtletic Software Engineering approach, and Workouts of the day (WoD). The best analogy I can provide is that they are computer science's equivalent to a burpee. For those of you who are unfamiliar with the burpee, it's a cardiovascular exercise that incorporates push-ups, squats, and a jump, all rolled into one exercise. They are outrageously effective in developing strength and stamina, and when I was a little closer to my prime, I did them often with great results. With that being said, I HATE burpees. I did them because I know they get results, certainly not for my enjoyment. I have similar sentiments with WoD's. I am sure they will garner results, previous reviews don't lie, but I dread every second of them, and how easy it is for small mistakes to make huge impacts on your grade.
+  
+  <div class="ui small rounded images align:center">
+<img class="ui image" src="../images/burpees.jpg">
+</div>
   
   
   
