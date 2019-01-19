@@ -15,7 +15,17 @@ labels:
 </div>
 
 
- My relationship with Javascript started out much like any other relationship. At first, communication was painful. I was speaking to Javascript a lot like I had spoken to my previous programming languages. Luckily, Javascript didn't seem to let it become a bother. In the beginning, I was too hung up on my previous relationships (Java, C++). I said "Look, my previous relationship got kind of messy, Java was really controlling. Java was always trying to force me to return just one data-type in my functions." I was relieved when Javascript replied, "Look, you're your own person. While we're together, I'll let you return whatever you want: Booleans, integers, strings, it's totally up to you."
+ With my only previous programming experience being in the languages of Java and C/C++, there were many elements that I initially found strange. Declaring variables was definitely different. Java and C are both strongly typed languages, which means each variable has a type declared upon instantiation. Javascript, however, is weakly typed. The keyword _let_ is used to declare your variable, with no mention of a type. You can also omit _let_ altogether, leaving the variable globally accessible. This can be a dangerous mistake.
+ 
+ ````javascript
+   let x = 1;
+   let y = false;
+   let z = " a string"
+````
+ 
+ The second area that is in stark contradiction with my traditional Java upbringing is functions. For one, they are declared with the keyword _function_. I'm a fan, it's stupid-simple syntax that makes it easy for someone who has never written a program in their life to understand. Aside from this, the syntax for functions is largely the same, variables are passed as parameters in the same way, the _return_ keyword is used, etc. 
+ 
+ A powerful difference in how functions operate in Javascript, is the fact that their is no return-type declared. The same function could return different variable types for different situations, for instance, integers for some values and an error statement in the form of a string for others. Although it seems like a beautiful thing, I am certain this method has draw backs that are to be discovered later on down the line.
  
  
    ````javascript
@@ -33,14 +43,14 @@ labels:
    ````
   
    
-   I knew I was dealing with a free spirit, which certainly peaked my interest. Then, however, Javascript told me about variables. "I don't like to be bogged down by declaring a type for variables," Javascript said. This left me somewhat bothered, I tried to hide my emotions as Javascript continued to speak. "Also, I don't want my arrays to be exclusive, you know, just one data type?" I couldn't hold my tongue. "Free love and variables might have been OK in the sixties, but I grew up in a conservative home. Besides, Java and I never had any problems with just one type of variable in our arrays!" Although I raised my voice, Javascript remained calm. "Calm down," Javascript said. "If it makes you happy, we can have exclusive arrays, but I really want you to give them a chance."
+Arrays are another noteworthy topic when reflecting on Javascript. I don't know this for a fact, but I'm sure all, if not almost all programming languages support the array data type, and Javascript is no different. Those of you who were baptized in the Church of Java or C, as I was, are used to using an array to store a single data type, every index conforming to this rule. Javascript is a rule breaker in this aspect. Javascript is an equal-opportunity index programming language, where all data types are welcome in a single array.
    
    ```javascript
    let variable = [1, 'shoe', true, 3.14];//four different data types in one array!!!!
    ```
     
     
-  Javascript's  calm, cool reply brought me back to my senses, I decided I'll keep an open mind, try to experience something new. "Alright," I retorted, "I'll try to live with your wild array lifestyle." "I'm glad you feel that way," Javascript said with a grin that I knew meant I was in for a surprise. "If you stay with me, I'll show you .push(), .pop(), .shift(), and .unshift()." By the look Javascript was giving me, I knew I should be happy, but honestly, I had no idea what Javascript was talking about. Before I could get a word out, Javascript said "I have built in functions to use an array as a stack or queue, didn't you ever use those with your last programming language?" Javascript's words brought back painful memories of null pointer exceptions, methods, and classes, all to build data structures that were just so simple in Javascript. "yeah," I replied, "Java and I didn't really see eye to eye on data structures, it really strained our relationship." Javascript said "Don't worry, I'll make data structures way more fun." It was at this moment that I realized I was falling for Javascript. Just as everything seemed perfect, she mentioned a name that echoed in my head the rest of the night.
+While on the topic of arrays, I have to discuss _push(), pop(), shift,_ and _unshift_. These are by far my favorite features in this language. _push()_ and _pop()_ are methods built into Javascript that allow an array to easily be used as a stack, which is a last in, first out data structure. These methods "push" data on the end of the array, and "pop" it off, respectively. _shift()_ removes the item in the first index, and when used in conjuction with _push()_ allows us to implement a queue(first in, first out) data structure. _unshift()_ is the inverse of _shift()_, meaning that it inputs an item at the front of the array, shifting each other element one to the right.
     
    ```javascript
     let variable = [1, 'shoe', true, 3.14];
@@ -49,9 +59,9 @@ labels:
     
     variable.push(3.14);//this pushes 3.14 back on the end of the array
     
-    variable.unshift();//removes the first item from the array, and shifts the remaining values to the left one space (like a queue)
+    variable.shift();//removes the first item from the array, and shifts the remaining values to the left one space (like a queue)
     
-    variable.shift(1);//puts 1 back at the front of the array, shifting everything else one to the right
+    variable.unshift(1);//puts 1 back at the front of the array, shifting everything else one to the right
   ```
   
   
@@ -61,11 +71,18 @@ labels:
 </div>
    
    
-   "JSON," the only words I understood out of the whole sentence. "Who is JSON!?" I sharply recited, interrupting Javascript. "I said, I need to tell you about JSON." My heart began to race, who is this JSON character? Javascript's ex? My mind began wander to the worst cases. "JSON is Javascript Object Notation. It's a lightweight data-interchange format. It can store integers, floats, strings, booleans, a NULL value, or even objects. Look, I know you're going to struggle to get to know JSON, but I really think it would be best for our relationship if you two could be friends." I sank back in my chair. I couldn't tell whether Javascript was a gift from above, or a wild-child that would ruin my trust in programming languages all together.
+In contrast with the simplicity of how Javascript implements arrays, JSON (Javascript Object Notation) is still a perplexing mystery to me. I used to lie awake at night, pondering the origins of the universe. That time is now spent wondering how to properly implement JSON.
    
    <div class="ui small rounded images align:center">
 <img class="ui image" src="../images/crisis.jpg">
 </div>
    
    More information on JSON can be found at https://www.w3schools.com/js/js_json.asp
+   
+  The last concept I was introduced to in this section was the concept of the Ahtletic Software Engineering approach, and Workouts of the day (WoD). The best analogy I can provide is that they are computer science's equivalent to a burpee. For those of you who are unfamiliar with the burpee, it's a cardiovascular exercise that incorporates push-ups, squats, and a jump, all rolled into one exercise. They are outrageously effective in developing strength and stamina, and when I was a little closer to my prime, I did them often with great results. With that being said, I HATE burpees. I did them because I know they get results, certainly not for my enjoyment. I have similar sentiments with WoD's. I am sure they will garner results, previous reviews don't lie, but I dread every second of them, and how easy it is for small mistakes to make huge impacts on your grade.
+  
+  
+  
+  
+  In conclusion, Javascript is a great beginner's programming language in my opinion. There are several features that make implementing data structures fast and easy. JSON presents a learning curve, and will require practice to become accustomed to if you have not been previously introduced to it. The Athletic Software Engineering pedagogy is effective, but high-stress method of learning computer science.
    
