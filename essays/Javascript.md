@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: /images/javascript.png
-title: Javascript and Athletic Software Engineering, an Intoduction
+title: Javascript and Athletic Software Engineering: An Introduction
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
@@ -25,7 +25,7 @@ labels:
  
  The second area that is in stark contradiction with my traditional Java upbringing is functions. For one, they are declared with the keyword _function_. I'm a fan, it's stupid-simple syntax that makes it easy for someone who has never written a program in their life to understand. Aside from this, the syntax for functions is largely the same, variables are passed as parameters in the same way, the _return_ keyword is used, etc. 
  
- A powerful difference in how functions operate in Javascript, is the fact that their is no return-type declared. The same function could return different variable types for different situations, for instance, integers for some values and an error statement in the form of a string for others. Although it seems like a beautiful thing, I am certain this method has draw backs that are to be discovered later on down the line.
+ A powerful difference in how functions operate in Javascript, is the fact that there is no return-type declared. The same function could return different variable types for different situations, for instance, integers for some values and an error statement in the form of a string for others. Although it seems like a beautiful thing, I am certain this method has draw backs that are to be discovered later on down the line.
  
  
    ````javascript
@@ -50,7 +50,7 @@ Arrays are another noteworthy topic when reflecting on Javascript. I don't know 
    ```
     
     
-While on the topic of arrays, I have to discuss _push(), pop(), shift,_ and _unshift_. These are by far my favorite features in this language. _push()_ and _pop()_ are methods built into Javascript that allow an array to easily be used as a stack, which is a last in, first out data structure. These methods "push" data on the end of the array, and "pop" it off, respectively. _shift()_ removes the item in the first index, and when used in conjuction with _push()_ allows us to implement a queue(first in, first out) data structure. _unshift()_ is the inverse of _shift()_, meaning that it inputs an item at the front of the array, shifting each other element one to the right.
+While on the topic of arrays, I have to discuss _push(), pop(), shift,_ and _unshift_. These are by far my favorite features in this language. _push()_ and _pop()_ are methods built into Javascript that allow an array to easily be used as a stack, which is a last in, first out data structure. These methods "push" data on the end of the array, and "pop" it off, respectively. _shift()_ removes the item in the first index, and when used in conjunction with _push()_ allows us to implement a queue(first in, first out) data structure. _unshift()_ is the inverse of _shift()_, meaning that it inputs an item at the front of the array, shifting each other element one to the right.
     
    ```javascript
     let variable = [1, 'shoe', true, 3.14];
@@ -79,10 +79,10 @@ In contrast with the simplicity of how Javascript implements arrays, JSON (Javas
    
    More information on JSON can be found at https://www.w3schools.com/js/js_json.asp
    
-  The last concept I was introduced to in this section was the concept of the Ahtletic Software Engineering approach, and Workouts of the day (WoD). The best analogy I can provide is that they are computer science's equivalent to a burpee. For those of you who are unfamiliar with the burpee, it's a cardiovascular exercise that incorporates push-ups, squats, and a jump, all rolled into one exercise. They are outrageously effective in developing strength and stamina, and when I was a little closer to my prime, I did them often with great results. With that being said, I HATE burpees. I did them because I know they get results, certainly not for my enjoyment. I have similar sentiments with WoD's. I am sure they will garner results, previous reviews don't lie, but I dread every second of them, and how easy it is for small mistakes to make huge impacts on your grade.
+  The last concept I was introduced to in this section was the concept of the Athletic Software Engineering approach, and Workouts of the day (WoD). The best analogy I can provide is that they are computer science's equivalent to a burpee. For those of you who are unfamiliar with the burpee, it's a cardiovascular exercise that incorporates push-ups, squats, and a jump, all rolled into one exercise. They are outrageously effective in developing strength and stamina, and when I was a little closer to my prime, I did them often with great results. With that being said, I HATE burpees. I did them because I know they get results, certainly not for my enjoyment. I have similar sentiments with WoD's. I am sure they will garner results, previous reviews don't lie, but I dread every second of them, and how easy it is for small mistakes to make huge impacts on your grade.
   
   <div class="ui small rounded images align:center">
-<img class="ui image" src="../images/burpees.jpg">
+<img class="ui image" src="../images/burpees.png">
 </div>
   
   
