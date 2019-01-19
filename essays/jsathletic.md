@@ -36,8 +36,10 @@ labels:
           break;
         case 1:
     	    return true;//returns a boolean
+	    break;
         default:
     	    return: "It's ok, return whatever you want!";//returns a string
+	    break;
   }
 }
    ````
