@@ -9,7 +9,7 @@ labels:
 ---
 
 
-<div class="ui small rounded images">
+<div class="ui small rounded images align:center">
 <img class="ui image" src="../images/javascript.png">
 </div>
 
@@ -55,7 +55,7 @@ labels:
   
   
   
-<div class="ui small rounded images">
+<div class="ui small rounded images align:center">
 <img class="ui image" src="../images/manhuggingcomputer.jpg">
 </div>
    
