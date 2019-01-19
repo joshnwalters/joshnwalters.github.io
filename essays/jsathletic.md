@@ -6,7 +6,7 @@ title: Javascript and Athletic Software Engineering: An Introduction
 date: 2019-01-18
 labels:
   - Javascript
-  - Athletic Software Engineering
+  -Athletic Software Engineering
 ---
 
 
