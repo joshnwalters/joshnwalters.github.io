@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-image: /images/javascript.png
 title: Javascript and Athletic Software Engineering: An Introduction
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
   - Javascript
+  - Athletic Software Engineering
 ---
 
 
