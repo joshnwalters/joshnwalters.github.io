@@ -11,7 +11,7 @@ labels:
 
 
 <div class="ui small rounded images align:center">
-<img class="ui image" src="../images/javascript2.jpg">
+<img class="ui image" src="../images/javascript2.png">
 </div>
 
 
