@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Accidental Path to Software Enggineering
+title: My Accidental Path to Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-22
 labels:
