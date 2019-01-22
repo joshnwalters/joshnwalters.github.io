@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: My Accidental Path to Software Enggineering
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-22
+labels:
+  - Software Engineering
+---
+
 My entry into the software engineering could best be described as accidental. This is not to say that I don't want to be in this field, or that I don't have a passion for utilizing computers to solve problems, but that the route I took was probably not that of your typical Computer Science student.
 
 During high school, I was a bright but terrible student. I can't recall what I put my effort in, but it certainly wasn't anything in the relam of academics. I despised science, math, but most of all, computers. I can remember taking typing classes that taught how to properly use the QWERTY keyboard, as opposed to "pecking" with your two index fingers. I couldn't stand it. It was monotonous and dry, and I felt as though I had better things to do with my time. 
