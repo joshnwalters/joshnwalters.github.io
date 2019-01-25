@@ -41,6 +41,8 @@ Ineffective
   
  >I want to get decimals. I hope to get 10.869...
  
+ (https://stackoverflow.com/questions/54358432/division-using-a-double-variable-it-doesnt-produce-decimals)
+ 
  
  This question seems pretty solid, the verbiage is easy to understand, code is formatted so that it is easy to read, and he even posts what his desired return value is. This question becomes a bad question in that a quick search of "The Java Tutorials" on Oracle's website could have provided the necessary information much faster than posting and waiting for a response.
  
@@ -51,6 +53,8 @@ Ineffective
 >I having been recived a task to craete this iphone APPLICATION which can connect to a website and send information to database. Also >must store an imgae on data base and on phone. Pleas tell me how to do this. Must know very soon.
 
 >thanks you all
+
+(https://meta.stackexchange.com/questions/67960/what-is-a-bad-question): Can be found in the comments thread.
 
 This question I found in Meta StackExchange under a thread called "What is a "Bad" question". Answering this question would require a textbook. There is no way of determining what level of knowledge the individual who asked the question has. Is he a novice programmer, trying to understand at a high-level view? Perhaps an expert who encountered a bug? Intuition leads us to the first answer, but we have no way of knowing for sure. The second thing I notice is spelling. It's always a good idea to run a spell-check with any one of the many online text-editors available. I found this free one: (https://www.online-spellcheck.com/) in about 3 seconds. The final thing to note from this post is the phrase "Must know very soon." Ending a question with how urgently you need an answer will not cause the question to be answered any faster, thus it's trivial to set an urgency level on your question.
 
@@ -102,6 +106,8 @@ int main()
 17736
 ````
 >The last number seems to change on each run which is not what I expect.
+
+(https://stackoverflow.com/questions/54358864/how-to-access-range-of-bits-in-a-bitset)
 
 This is an example of a great question. His question is clear and concise, with neatly formatted code. He gives a description of methods he has attempted, so the people that may potentially help him don't waste their time attempting them, or better yet, can provide him feedback on how those implementations may work. He even gives an example of the results he is receiving, so people can compare their implementations with his. Overall, A+ question.
 
