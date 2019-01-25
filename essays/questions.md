@@ -13,7 +13,7 @@ How to Get Answers to Your Question
 >"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question."
 Carl Sagan
 
-Dr. Sagan had a great view on questions: They are just a way of trying to better understand the world. No matter how trivial or outlandish they may be, a question is a request for better understanding, and should not be scoffed at. Unfortunately, this logic is not shared by the some of the people you will sooner or later come into contact with when trying get assistance with a bug, or whatever other problem you may find in your computer science career. Hell hath no fury like a person behind  a keyboard, so to prevent you from feeling this wrath, I present a few examples of "effective" questions, and "ineffective" questions
+Dr. Sagan had a great view on questions: They are just a way of trying to better understand the world. No matter how trivial or outlandish they may be, a question is a request for better understanding, and should not be scoffed at. Unfortunately, this logic is not shared by the some of the people you will sooner or later come into contact with when trying get assistance with a bug, or whatever other problem you may find in your computer science career. Hell hath no fury like a person behind  a keyboard, so to prevent you from feeling this wrath, I present a few examples of _*effective*_ questions, and _*ineffective*_ questions
 
 
 Ineffective
@@ -99,4 +99,4 @@ int main()
 
 This is an example of a great question. His question is clear and concise, with neatly formatted code. He gives a description of methods he has attempted, so the people that may potentially help him don't waste their time attempting them, or better yet, can provide him feedback on how those implementations may work. He even gives an example of the results he is receiving, so people can compare their implementations with his. Overall, A+ question.
 
-The saying "There are no stupid questions" still holds true, but there are effective and ineffective questions. Hopefully after viewing these examples, you can ask questions that will get you better answers, and sooner. So, don't be afraid to post the questions you may have, just take the time to make sure you're conveying them in an effective manner.
+The saying "There are no stupid questions" still holds true, but there are effective and ineffective questions. Hopefully after viewing these examples, you can ask questions that will get you better answers, and sooner. So, don't be afraid to post the questions you may have, just take the time to make sure you're conveying them in an_* effective*_ manner.
