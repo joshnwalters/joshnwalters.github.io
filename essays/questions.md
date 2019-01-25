@@ -17,7 +17,7 @@ How to Get Answers to Your Question
 </div>
 
 >"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question."
-Carl Sagan
+-Carl Sagan
 
 Dr. Sagan had a great view on questions: No matter how trivial or outlandish they may be, a question is a request for better understanding, and should not be scoffed at. Unfortunately, this logic is not shared by the some of the people you will sooner or later come into contact with when trying get assistance with a bug, or whatever other problem you may find in your computer science career. Hell hath no fury like a person behind  a keyboard, so to prevent you from feeling this wrath, I present a few examples of _*effective*_ and _*ineffective*_ questions
 
