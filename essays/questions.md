@@ -10,6 +10,8 @@ labels:
 How to Get Answers to Your Question
 ====
 
+
+
 >"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question."
 Carl Sagan
 
