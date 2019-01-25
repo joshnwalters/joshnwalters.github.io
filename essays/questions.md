@@ -10,7 +10,11 @@ labels:
 How to Get Answers to Your Question
 ====
 
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/question.jpg">
+  <img class="ui image" src="../images/question3.jpg">
+  <img class="ui image" src="../images/question2.jpg">
+</div>
 
 >"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question."
 Carl Sagan
