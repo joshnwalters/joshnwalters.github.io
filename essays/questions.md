@@ -2,13 +2,13 @@
 How Get Answers to Your Question
 ====
 
->"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question"
+>"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question."
 Carl Sagan
 
-Dr. Sagan had a great view on questions: They are just a way of trying to better understand the world. No matter how trivial or outlandish they may be, a question is just a request for better understanding. Unfortunately, this logic is not shared by the people you will sooner or later come into contact with when trying get assistance with a bug, or whatever other problem you may find in your computer science career. Hell hath no fury like a person behind  akeyboard, so to prevent you from feeling this wrath, I present a few examples of "good" questions, and "bad" questions
+Dr. Sagan had a great view on questions: They are just a way of trying to better understand the world. No matter how trivial or outlandish they may be, a question is a request for better understanding, and should not be scoffed at. Unfortunately, this logic is not shared by the some of the people you will sooner or later come into contact with when trying get assistance with a bug, or whatever other problem you may find in your computer science career. Hell hath no fury like a person behind  a keyboard, so to prevent you from feeling this wrath, I present a few examples of "effective" questions, and "ineffective" questions
 
 
-Bad
+Ineffective
 ----
 >i want to return a double however it always returns an integer. this code returns 10.0, I want the decimals as well
 
@@ -40,7 +40,7 @@ Bad
 
 This question I found in Meta StackExchange under a thread called "What is a "Bad" question". Answering this question would require a textbook. There is no way of determining what level of knowledge the individual who asked the question. Is he a novice programmer, trying to understand at a high-level view? Perhaps an expert who encountered a bug? Intuition leads us to the first answer, but we have no way of knowing for sure. The second thing I notice is spelling. It's always a good idea to run a spell-check with any one of the many online text-editors available. I found this free one: (https://www.online-spellcheck.com/) in about 3 seconds. The final thing to note from this post is the phrase "Must know very soon." Ending a question with how urgently you need an answer will not cause the question to be answered any faster, thus it's trivial to set an urgency level on your question.
 
-Good
+Effective
 -----
 
 >How to access range of bits in a bitset?
@@ -89,6 +89,6 @@ int main()
 ````
 >The last number seems to change on each run which is not what I expect.
 
-This is an example of a great question. His question is clear and concise, with neatly formatted code, and highlighted in-line code. He gives a description of methods he has attempted, so the people that may potentially help him don't waste their time attempting them, or better yet, can provide him feedback on how those implementations may work. He even gives an example of the results he is receiving, so people can compare their implementations with his. Overall, A+ question.
+This is an example of a great question. His question is clear and concise, with neatly formatted code. He gives a description of methods he has attempted, so the people that may potentially help him don't waste their time attempting them, or better yet, can provide him feedback on how those implementations may work. He even gives an example of the results he is receiving, so people can compare their implementations with his. Overall, A+ question.
 
 The saying "There are no stupid questions" still holds true, but there are effective and ineffective questions. Hopefully after viewing these examples, you can ask questions that will get you better answers, and sooner. So, don't be afraid to post the questions you may have, just take the time to make sure you're conveying it in an effective manner.
