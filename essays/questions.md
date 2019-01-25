@@ -1,5 +1,13 @@
-
-How Get Answers to Your Question
+---
+layout: essay
+type: essay
+title: How to Get Answers to Your Questions
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-24
+labels:
+  - Effective questions
+---
+How to Get Answers to Your Question
 ====
 
 >"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question."
