@@ -12,13 +12,18 @@ Bad
 >i want to return a double however it always returns an integer. this code returns 10.0, I want the decimals as well
 
 >I have tried using a different public variable,
+
+
+
 ```Javascript
      public double getCost()
         {
             double price = 500/46; 
             return price;
         }
-        ```
+  ```
+  
+  
  >I want to get decimals. I hope to get 10.869...
  
  [Original post can be found here] (https://stackoverflow.com/questions/54358432/division-using-a-double-variable-it-doesnt-produce-decimals)
@@ -33,4 +38,56 @@ Bad
 
 >thanks you all
 
-This question I found in Meta StackExchange under a thread called "What is a "Bad" question". Answering this question would require a textbook. There is no way of determining what level of knowledge the individual who asked the question. Is he a novice programmer, trying to understand at a high-level view? Perhaps an expert who encountered a bug? Intuition leads us to the first answer, but we have no way of knowing for sure. The second thing I notice is spelling. It's always a good idea to run a spell-check with any one of the many 
+This question I found in Meta StackExchange under a thread called "What is a "Bad" question". Answering this question would require a textbook. There is no way of determining what level of knowledge the individual who asked the question. Is he a novice programmer, trying to understand at a high-level view? Perhaps an expert who encountered a bug? Intuition leads us to the first answer, but we have no way of knowing for sure. The second thing I notice is spelling. It's always a good idea to run a spell-check with any one of the many online text-editors available. I found [this free one] (https://www.online-spellcheck.com/) in about 3 seconds. The final thing to note from this post is the phrase "Must know very soon." Ending a question with how urgently you need an answer will not cause the question to be answered any faster, thus it's trivial to set an urgency level on your question.
+
+Good
+-----
+
+>How to access range of bits in a bitset?
+
+>I have a bitset which is very large, say, 10 billion bits.
+
+>What I'd like to do is write this to a file. However using .to_string() actually freezes my computer.
+
+>What I'd like to do is iterate over the bits and take 64 bits at a time, turn it into a uint64 and then write it to a file.
+
+>However I'm not aware how to access different ranges of the bitset. How would I do that? I am new to c++ and wasn't sure how to access >the underlying bitset::reference so please provide an example for an answer.
+
+>I tried using a pointer but did not get what I expected. Here's an example of what I'm trying so far.
+
+```
+#include <iostream>
+#include <bitset>
+#include <cstring>
+using namespace std;
+
+int main()
+{
+    bitset<50> bit_array(302332342342342323);
+    cout<<bit_array << "\n";
+    bitset<50>* p;
+    p = &bit_array;
+    p++;
+    int some_int;
+    memcpy(&some_int, p , 2);
+    cout << &bit_array << "\n";
+    cout << &p << "\n";
+    cout << some_int << "\n";
+
+    return 0;
+}
+
+```
+
+>the output:
+
+````
+10000110011010100111011101011011010101011010110011
+0x7ffe8aa2b090                                                                                                                          
+0x7ffe8aa2b098
+17736
+````
+>The last number seems to change on each run which is not what I expect.
+
+This is an example of a great question. His question is clear and concise, with neatly formatted code, and highlighted in-line code. He gives a description of methods he has attempted, so the people that may potentially help him don't waste their time attempting them, or better yet, can provide him feedback on how those implementations may work. He even gives an example of the results he is receiving, so people can compare their implementations with his. Overall, A+ question.
+
