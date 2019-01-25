@@ -2,7 +2,7 @@
 How Get Answers to Your Question
 ====
 
->"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question >is a cry to understand the world. There is no such thing as a dumb question"
+>"There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question"
 Carl Sagan
 
 Dr. Sagan had a great view on questions: They are just a way of trying to better understand the world. No matter how trivial or outlandish they may be, a question is just a request for better understanding. Unfortunately, this logic is not shared by the people you will sooner or later come into contact with when trying get assistance with a bug, or whatever other problem you may find in your computer science career. Hell hath no fury like a person behind  akeyboard, so to prevent you from feeling this wrath, I present a few examples of "good" questions, and "bad" questions
