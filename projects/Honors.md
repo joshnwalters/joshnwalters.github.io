@@ -13,7 +13,7 @@ labels:
 summary: Earning an Associates of Science with Honors
 ---
 
-<img class="ui image" src="../images/mountain.jpg">
+<img class="ui large rounded image" src="../images/mountain.jpg">
 
 Many people might not find an A.S. that great of an accomplishment. I feel very differently.
 
