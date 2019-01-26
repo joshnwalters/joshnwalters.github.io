@@ -21,7 +21,7 @@ A little history on my background, I humbly must admit that I am a college dropo
 
 Upon completion of my five-year contract, I knew that this time would be different. I decided to set a goal of maintaining a 4.0 GPA while in college. I failed to obtain that goal, I graduated from Leeward Community College with a 3.92 GPA. Although I didn't meet my goal, I am still proud that I was able to make such a transition. I don't provide this information to brag, but more to demonstrate that my understanding of failure and falling short of expectations has changed since the disaster that was my first attempt at college.
  
- Regardless of how things are currently, there is alway a way to improve. This applies to projects, careers, and even life in general.
+ Regardless of how things are currently, there is always a way to improve. This applies to projects, careers, and even life in general.
 
 
 
