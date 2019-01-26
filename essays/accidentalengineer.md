@@ -7,6 +7,8 @@ date: 2019-01-22
 labels:
   - Software Engineering
 ---
+ <img class="ui large middle floated rounded image" src="../images/pookienme.JPG">
+
 
 My entry into the software engineering could best be described as accidental. This is not to say that I don't want to be in this field, or that I don't have a passion for utilizing computers to solve problems, but that the route I took was probably not that of your typical Computer Science student.
 
