@@ -21,7 +21,7 @@ Once in the field, I quickly found a passion I never knew I had. When I was on d
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/USS_techmanual.jpg">
+  <img class="ui image" src="../images/techmanual.jpg">
   <img class="ui image" src="../images/techmanual2.jpg">
 </div>
 
