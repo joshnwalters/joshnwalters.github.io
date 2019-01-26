@@ -12,7 +12,7 @@ labels:
 summary: Completed a six-month deployment to the Western Pacific in support of missions vital to national security.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/USS_BREMERTON.jpg">
   <img class="ui image" src="../images/USS_BREMERTON2.jpg">
 </div>
