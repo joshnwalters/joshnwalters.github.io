@@ -22,7 +22,7 @@ During high school, I was a bright but terrible student. I can't recall what I p
 Once in the field, I quickly found a passion I never knew I had. When I was on duty, my nose would be buried in tech manuals, trying to understand how messages I typed on Panasonic Toughbook were transformed into machine-code, then electrical signals that were shot out of an antenna to a multi-million-dollar satellite, which then sent it to some recipient half-way across the world, where the process was reversed! Amazing, right? I would type away, thinking I was basically the next Alan Turing for knowing how to ping my computer's home address. With all of this new-found knowledge, many crises were averted, and about equally as many created. My calling was found.
 
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/techmanual.jpg">
   <img class="ui image" src="../images/techmanual2.jpg">
 </div>
