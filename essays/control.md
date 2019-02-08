@@ -16,13 +16,13 @@ labels:
 
 
  <img class="ui medium middle floated rounded image" src="../images/ESlintLogo.png">
-__________________
+=====
 
 If you talk to an ICS 314 student, you are liable to get a mixed array of responses regarding ESLint. Many have not-so-positive views on how it aggressively enforces the standards, such as forcing a new-line entry at the bottom of your code, or how it will flag on anything but template literals when printing text. 
 
 I find myself leaning towards the other camp. I find nothing more satisfying than sighting the little green checkmark in the upper right-hand corner of my IDE, letting me know that my code may not be right, but at least it looks good. I know my code is crisp, clean, and above all, easy to read.
 
- <img class="ui medium middle floated rounded image" src="../images/ESLintErrors.png">
+ <img class="ui medium large floated rounded image" src="../images/ESLintErrors.png">
 
 This is where the importance of ESLint comes into play. Yes, I think that some of the areas it hits are frivolous. Do I think it's necessary that every single line is uniformly spaced? Or that template literals are used instead of the classic, tried-and-true method of using plus-symbols between strings and variables to print them to the console? No, I do not. I have, however, written code that I would attempt to come back to at a later date, and struggle to read through. ESLint shields you from this problem with extreme prejudice.
 
