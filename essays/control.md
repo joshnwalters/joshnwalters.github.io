@@ -12,7 +12,7 @@ labels:
  
 
 # Coding Standards with ESLint
-### (Or How to not Look Like a Rookie With ESLint)
+### (Or How to not Look Like a Rookie with ESLint)
 
 
  <img class="ui medium middle floated rounded image" src="../images/ESlintLogo.png">
