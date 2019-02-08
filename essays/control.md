@@ -1,4 +1,17 @@
-#Version Control with ESLint
+---
+layout: essay
+type: essay
+title: Coding Standards with ESLint
+# All dates must be YYYY-MM-DD format!
+date: 2019-02-07
+labels:
+  - Coding Standards
+  -ESLint
+  -IntelliJ
+---
+ <img class="ui medium middle floated rounded image" src="../images/pookienme.JPG">
+
+#Coding Standards with ESLint
 ###(Or How to not Look Like a Rookie With ESLint)
 ______
 If you talk to an ICS 314 student, you are liable to get a mixed array of responses regarding ESLint. Many have not-so-positive views on how it aggressively enforces the standards, such as forcing a new-line entry at the bottom of your code, or how it will flag on anything but template literals when printing text. 
