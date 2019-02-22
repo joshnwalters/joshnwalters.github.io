@@ -26,7 +26,7 @@ With Semantic UI, your webpages can easily be converted from ugly blue hyperlink
  <img class="ui fluid image" src="../images/hoteletrusco.png">
  
  
- The preceding website was built with Semantic UI. The location for the hotel may be beautiful, or maybe that's just how good Semantic is at creating webpages, I can't tell. 
+ The preceding website was built with Semantic UI (in addition to a few other technologies). The location for the hotel may be beautiful, or maybe that's just how good Semantic is at creating webpages, I can't tell. 
  
  [You can find Hotel Etrusco's website here](https://www.hoteletrusco.com/index.php)
  
