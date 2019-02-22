@@ -13,7 +13,7 @@ labels:
 
 
 
- <img class="ui small middle floated rounded image" src="../images/semantic.png">
+ <img class="ui small middle floated circular image" src="../images/semantic.png">
  
  
 If you're like me, you are a novice at best when it comes to web development. I myself just a week ago was only able to create web pages that were cutting edge before Y2K. I have fond memories of the 90's, but I don't want to take future customers on a trip down memory lane when they view the product I'm trying to create for them. For an idea of what I'm talking about, you can see some websites from the 90's that are still active [here](http://www.cnn.com/US/OJ/), [here](http://www.dolekemp96.org/main.htm), or [here](http://www.fogcam.org/). (The fog cam still updates 25 years later!)
@@ -39,7 +39,7 @@ With Semantic UI, your webpages can easily be converted from ugly blue hyperlink
  
  -----
  
-   ````img class="ui small middle floated rounded image" src="../images/semantic.png"````
+   ````img class="ui small middle floated circular image" src="../images/semantic.png"````
  
         
  
@@ -52,7 +52,7 @@ With Semantic UI, your webpages can easily be converted from ugly blue hyperlink
  -----
  
  
- The portions after the "class" tag are what I'm referring to. For the top image, "ui small middle floated rounded image" indicates I want a small image, that is middle aligned, floated, and rounded on the corners. Pretty simple, right?
+ The portions after the "class" tag are what I'm referring to. For the top image, "ui small middle floated circular image" indicates I want a small image, that is middle aligned, floated to the left, and circular. Pretty simple, right?
  
  The second is a little less intuitive, but a quick look through the [Semantic UI documentation for images](https://semantic-ui.com/elements/image.html) shows us that the "fluid" keyword means the image will be sized to fit the page.
  
