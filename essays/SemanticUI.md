@@ -13,7 +13,7 @@ labels:
 
 
 
- <img class="ui large middle centered floated rounded image" src="../images/semantic.png">
+ <img class="ui large middle centered rounded image" src="../images/semantic.png">
  
  
 If you're like me, you are a novice at best when it comes to web development. I myself just a week ago was only able to create web pages that were cutting edge in 1996. I have fond memories of the 90's, but I don't want to take future customers on a trip down memory lane when they view the product I'm trying to create for them. For a an idea of what I'm talking about, you can see some websites from the 90's that are still active [here](http://www.cnn.com/US/OJ/), [here](http://www.dolekemp96.org/main.htm), or [here](http://www.fogcam.org/). (The fog cam still updates 25 years later!)
@@ -24,4 +24,23 @@ With Semantic UI, your webpages can easily be converted from ugly blue hyperlink
 
  
  <img class="ui fluid image" src="../images/hoteletrusco.png">
+ 
+ 
+ The preceding website was built with Semantic UI. The location for the hotel may be beautiful, or maybe that's just how good Semantic is at creating webpages, I can't tell. 
+ 
+ [You can find Hotel Etrusco's website here](https://www.hoteletrusco.com/index.php)
+ 
+ So you've seen a solid representation of what can be achieved using Semantic UI, but that's not even the best part! Semantic UI uses natural language syntax, which means the code you write reads more like English and less like weird computer speak that programmer's normally deal with. For instance, I used Semantic to format the images I provided on this page:
+ 
+ The top image: img class="ui large middle centered rounded image" src="../images/semantic.png"
+ 
+        
+ 
+ Hotel Etrusco's webpage: img class="ui fluid image" src="../images/hoteletrusco.png"
+ 
+ 
+ The portions after the "class" tag are what I'm referring to. For the top image, "ui large middle floated rounded image" indicates I want a large image, that is middle aligned
+ 
+ 
+
 
