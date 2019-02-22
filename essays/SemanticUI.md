@@ -22,6 +22,9 @@ If you're like me, you are a novice at best when it comes to web development. I 
 With Semantic UI, your webpages can easily be converted from ugly blue hyperlinks, goofy icons, and pixelated pictures, like the still active CNN O.J. Simpson trial page, circa 1996, in the hyperlink above to something modern and sleek.
 
 
+-----
+
+
  
  <img class="ui fluid image" src="../images/hoteletrusco.png">
  
