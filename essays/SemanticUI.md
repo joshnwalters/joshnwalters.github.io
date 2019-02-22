@@ -36,12 +36,20 @@ With Semantic UI, your webpages can easily be converted from ugly blue hyperlink
  So you've seen a solid representation of what can be achieved using Semantic UI, but that's not even the best part! Semantic UI uses natural language syntax, which means the code you write reads more like English and less like weird computer speak that programmer's normally deal with. For instance, I used Semantic to format the images I provided on this page:
  
  The top image: 
+ 
+ -----
+ 
    ````img class="ui large middle floated rounded image" src="../images/semantic.png"````
  
         
  
  Hotel Etrusco's webpage: 
+ 
+ 
+ 
  ````img class="ui fluid image" src="../images/hoteletrusco.png"````
+ 
+ -----
  
  
  The portions after the "class" tag are what I'm referring to. For the top image, "ui large middle floated rounded image" indicates I want a large image, that is middle aligned, floated, and rounded on the corners. Pretty simple, right?
