@@ -1,4 +1,15 @@
-# Ethics in Software Engineering
+---
+layout: essay
+type: essay
+title: The Autonomous Car Dilemma
+# All dates must be YYYY-MM-DD format!
+date: 2019-04-18
+labels:
+  - Ethics in Software Engineering
+  - Autonomous Automobiles
+---
+
+# The Autonomous Car Dilemma
 
 As technology continues to boom, software engineers are faced with more ever present ethical dilemmas. Ideas that were once science fiction are quickly becoming science fact, presenting ever more challenging ethical problems to solve. Autonomous cars may quickly become a reality, and so to will the ethical conundrums they bring with them.
 
