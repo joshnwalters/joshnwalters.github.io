@@ -11,6 +11,8 @@ labels:
 
 # The Autonomous Car Dilemma
 
+ <img class="ui large middle floated rounded image" src="../images/autonomous.png">
+
 As technology continues to boom, software engineers are faced with more ever present ethical dilemmas. Ideas that were once science fiction are quickly becoming science fact, presenting ever more challenging ethical problems to solve. Autonomous cars may quickly become a reality, and so to will the ethical conundrums they bring with them.
 
 This particular problem is especially interesting to me in contrast with the other readings due to the fact that it's an ethical question that has yet to be fully answered. How should an autonomous vehicle respond in the event of an impending accident? Should it attempt to protect the occupants of the vehicle? Should it attempt to save as many people as possible, even if that doesn't include those inside?
