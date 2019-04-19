@@ -11,7 +11,7 @@ labels:
 
 # The Autonomous Car Dilemma
 
- <img class="ui large middle floated rounded image" src="../images/autonomous.jpg">
+ <img class="ui huge centered rounded image" src="../images/autonomous.jpg">
 
 As technology continues to boom, software engineers are faced with more ever present ethical dilemmas. Ideas that were once science fiction are quickly becoming science fact, presenting ever more challenging ethical problems to solve. Autonomous cars may quickly become a reality, and so to will the ethical conundrums they bring with them.
 
