@@ -21,7 +21,7 @@ Teleskope is a web app that is designed to help employers find talented students
 
 ## My Contributions
 <img class="ui huge centered rounded image" src="../images/ShowCompany (1).png">
-<img class="ui huge centered rounded image" src="../images/ShowComany (2).png">
+<img class="ui huge centered rounded image" src="../images/ShowCompany (2).png">
 <img class="ui huge centered rounded image" src="../images/EditCompany (1).png">
 
 
