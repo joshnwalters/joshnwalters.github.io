@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ts_logo.jpg
+image: images/ts_logo.png
 title: Teleskope
 permalink: projects/Teleskope
 # All dates must be YYYY-MM-DD format!
