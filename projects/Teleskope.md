@@ -15,14 +15,14 @@ summary: Being a part of my first software engineering project
 ---
 
 # Teleskope- Helping Employers find Stars
-<img class="ui huge rounded image" src="../images/landing.png">
+<img class="ui huge centered rounded image" src="../images/landing.png">
 
 Teleskope is a web app that is designed to help employers find talented students from the University of Hawaii to fill their vacancies. Additionally, we envision this app being useful for students to display their skills, and see where they may be lacking in regards to skills for prospective jobs they're interested in. More information about the site can be found here.
 
 ## My Contributions
-<img class="ui huge rounded image" src="../images/ShowCompany(1).png">
-<img class="ui huge rounded image" src="../images/ShowComany(2).png">
-<img class="ui huge rounded image" src="../images/EditCompany(1).png">
+<img class="ui huge centered rounded image" src="../images/ShowCompany(1).png">
+<img class="ui huge centered rounded image" src="../images/ShowComany(2).png">
+<img class="ui huge centered rounded image" src="../images/EditCompany(1).png">
 
 
 I contributed to designing and displaying the job cards that display on a companies homepage. Additionally, I implemented the modal that displays more information about the job. The cards were creating using the Semantic-UI Card element, which provides a great way to display objects to a user.
