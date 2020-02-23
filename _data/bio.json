@@ -38,11 +38,17 @@
     {
       "name": "Data Science",
       "keywords": [
+        "Scikit Learn",
+        "Pandas",
+        "NumPy"
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Computer Vision",
       "keywords": [
+        "OpenCV",
+        "Scikit Image",
+        "NumPy"
       ]
     }
   ],
@@ -54,7 +60,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Python",
+        "SQL",
+        "MongoDB",
+        "Android Development"
       ]
     },
     {
@@ -62,7 +71,7 @@
       "level": "",
       "keywords": [
         "Linux",
-        "Ubuntu",
+        "Jupyter Notebook",
         "Git/GitHub"
       ]
     }
@@ -74,12 +83,20 @@
       "studyType": "B.S.",
       "startDate": "2019-01-07",
       "endDate": "2020-12-15",
-      "gpa": "TBD",
+      "gpa": "3.65",
       "courses": [
         "Analysis of Algorithms",
         "Software Engineering in Javascript",
         "Linear Algebra/Differential Equations",
-        "Mandarin"
+        "Mandarin",
+        "Advanced Mathematics",
+        "Computer Vision",
+        "Operating Systems",
+        "Databases",
+        "Data Networks",
+        "Machine Learning",
+        "Mobile Design",
+        "Numerical Analysis"
       ],
       
       "institution": "Leeward Community College, Pearl City, HI",
